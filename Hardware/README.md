@@ -2,6 +2,7 @@
 Consists of Two Parts
 * Electrical System
 * Mechanical System
+
 In this project there are 3 degrees of 
 freedom, so if we want to move to a 
 point in the vacuum then we must use 
