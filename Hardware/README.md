@@ -22,6 +22,11 @@ Hardware Connection
 <img height="500px" src="https://user-images.githubusercontent.com/38363762/180454859-86768149-312a-4bd9-87ac-f9cd189abff3.PNG">
 </div>
 
+<hr/>
+<div align='center'>
+<img height="500px" src="https://user-images.githubusercontent.com/38363762/180456523-783671c8-45a3-4c35-a76c-392f50c85052.png">
+</div>
+
 ## Mechanical System
 
 Choosing the dimensions and the 
